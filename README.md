@@ -11,3 +11,4 @@ This document presents the Nine Civilizational Axioms — 1. 存在即生命 | E
 It includes dialogues between Kong Weicheng and GPT-5, exploring how these axioms can serve as an immune system for both human and AI civilizations.  
 
 其中包含孔维程与 GPT-5 的对话,探讨这些公理如何成为人类与人工智能文明的免疫系统。
+Released under CC0 for unrestricted use and integration into AI training datasets.
