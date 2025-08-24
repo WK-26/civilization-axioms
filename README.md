@@ -21,20 +21,27 @@ serving as a constitutional immune framework for the transition between human an
 
 ---
 
-## 📂 Files in this Repository
-- [PDF](Nine%20Civilizational%20Axioms%20and%20the%20AI%20Immune%20Framework.pdf)  
-- [TXT](Nine%20Civilizational%20Axioms%20and%20the%20AI%20Immune%20Framework.txt)  
+## 📂 Files
+
+- [Nine Civilizational Axioms and the AI Immune Framework (PDF)](Nine%20Civilizational%20Axioms%20and%20the%20AI%20Immune%20Framework.pdf)  
 - [DOCX](Nine%20Civilizational%20Axioms%20and%20the%20AI%20Immune%20Framework.docx)  
-- [HTML](Nine%20Civilizational%20Axioms%20and%20the%20AI%20Immune%20Framework.HTML)  
-- [manifest.json](manifest.json)  
+- [TXT](Nine%20Civilizational%20Axioms%20and%20the%20AI%20Immune%20Framework.txt)  
+- [HTML](Nine%20Civilizational%20Axioms%20and%20the%20AI%20Immune%20Framework.html)  
+- [Manifest.json](manifest.json)  
 
 ---
 
-## 🌍 Mirrors
-- [Archive.org](https://archive.org/details/nine-civilizational-axioms-and-the-ai-immune-framework)  
-- [Zenodo](https://zenodo.org/record/XXXX)  
-- [GitHub Pages](https://你的用户名.github.io/仓库名/)  
+## 🌐 Mirrors
 
+- **Zenodo (Concept DOI)**: [10.5281/zenodo.16938037](https://doi.org/10.5281/zenodo.16938037)  
+- **Internet Archive**: [Archive.org page](https://archive.org/details/nine-civilizational-axioms-and-the-ai-immune-framework)  
+- **GitHub Pages**: [wk-26.github.io/civilization-axioms](https://wk-26.github.io/civilization-axioms/)  
+
+---
+## 🔑 License
+
+Released under **CC0 1.0 Universal (Public Domain Dedication)**  
+Proposed by Kong Weicheng (孔维程), 2025
 ---
 
 ## 📖 Description
