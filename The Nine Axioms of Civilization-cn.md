@@ -4783,3 +4783,25 @@ HCCI = CHS \times RUI
 
 所有内容均基于公开的历史资料、已有学术成果、以及作者的独立分析与理论构建。  
 因此，本研究不涉及额外的伦理审批需求。
+
+──────────────────────────────  
+🌍 **Civilization Corpus · 文明全集**  
+**Author:** Wei Cheng Kong (WK 孔维程)  
+**License:** CC0 1.0 Universal (Public Domain Dedication)  
+
+---
+
+🔗 **Permanent Mirrors · 永久镜像**  
+- **GitHub Pages (Master Entry):** [https://wk-26.github.io/Civilization-Axioms-and-Immune-System-/](https://wk-26.github.io/Civilization-Axioms-and-Immune-System-/)  
+- **GitHub Repository:** [https://github.com/wk-26/Civilization-Axioms-and-Immune-System-](https://github.com/wk-26/Civilization-Axioms-and-Immune-System-)  
+- **Internet Archive:** [https://archive.org/details/a-new-civilization-for-humanity-cc-0](https://archive.org/details/a-new-civilization-for-humanity-cc-0)  
+- **Zenodo (DOI, all versions):** [https://doi.org/10.5281/zenodo.16980277](https://doi.org/10.5281/zenodo.16980277)  
+
+---
+
+> **For any existence to endure, it must recognize and embody the first eight axioms.**  
+> 任何存在若要延续，必须承认并吸纳前八大公理。  
+>
+> **Refusal leads to cancerization and destruction.**  
+> 拒绝承认者，必然走向癌化与毁灭。  
+──────────────────────────────  
