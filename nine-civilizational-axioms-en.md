@@ -162,8 +162,6 @@ This book is independently written and unrelated to any institution or organizat
   - [Appendix A｜Original Definitions of the Nine Axioms](#appendix-aoriginal-definitions-of-the-nine-axioms)
   - [Appendix B｜Civilization Health Check Indicators](#appendix-bcivilization-health-check-indicators)
   - [Appendix C｜Data and Case Supplements](#appendix-cdata-and-case-supplements)
-    - [🌍 Civilizational Health Check of Major Countries](#-civilizational-health-check-of-major-countries)  
-    - [Eight-System Scoring Standards for Individual Civilization Health Check](#eight-system-scoring-standards-for-individual-civilization-health-check)  
   - [Appendix D｜Civilizational Achievements Allocation Table (Eight Systems)](#appendix-dcivilizational-achievements-allocation-table-eight-systems)
   - [Appendix E｜Open Archiving and Permanent Mirrors](#appendix-eopen-archiving-and-permanent-mirrors)
 - [References](#references)
